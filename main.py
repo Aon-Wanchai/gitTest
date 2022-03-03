@@ -4,6 +4,7 @@ aaaaa
 
 // kui //
 333
+bbb
 // end //
 
 print("Main")
